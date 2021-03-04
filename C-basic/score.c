@@ -10,7 +10,6 @@ int main(){
 
     if(k <= 60)
         printf("점수 %d점은  기준 미달입니다",k);
-    if(k > 60)
-        printf(" 합격입니다. ",k);
+   
 
 }
